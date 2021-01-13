@@ -2,11 +2,17 @@
 
 [ Tool Hack ] Easy to use !
 
-#### -Clone or download project
+### Step:
 
-#### -Open with IDE and just run CLI: [ node 10fastfingers.js ]
+1. Clone or download project
 
-#### -Maximize browser view port and enjoy it
+2. Install dependancies:
+    `npm i`
+
+3. Run CLI:
+    `node 10fastfingers.js`
+
+#### Maximize browser view port and enjoy it
 
 
 Happy hacking !
